@@ -6,13 +6,10 @@ Beginner-friendly Engineering Chemistry notes for first-year CSE students.
 
 ## Features
 - Important definitions
-- Proper explanations
-- Chemical equations
-- Important formulas
+- Formulas and equations
 - Short notes
-- Revision notes
-- Applications of concepts
-- Semester-oriented topics
+- Revision topics
+- Applications
 
 ---
 
@@ -42,12 +39,11 @@ Beginner-friendly Engineering Chemistry notes for first-year CSE students.
 - Galvanic Corrosion
 - Differential Aeration Corrosion
 
-- Pilling Bedworth Ratio
 - Factors Affecting Corrosion
 
-### Cathodic Protection
-
-### Anodic Protection
+### Types of protection
+- Cathodic 
+- Anodic
 
 ### Surface Coating Methods
 - Galvanizing
@@ -64,12 +60,12 @@ Beginner-friendly Engineering Chemistry notes for first-year CSE students.
 
 ## Solar Cell
 - Construction
-- Working of Solar Cell
+- Working 
 
 ## Superconductors
 - Introduction and Basic Concepts
-  - Type-1 Superconductors
-  - Type-2 Superconductors
+- Type-1 Superconductors
+- Type-2 Superconductors
 - Applications
 
 ## Nanomaterials
@@ -95,7 +91,7 @@ Beginner-friendly Engineering Chemistry notes for first-year CSE students.
 
 ## Molecular Orbital Theory
 - Energy Level Diagrams of O₂, CO, N₂
-- π-Molecular Orbitals of Butadiene and Benzene
+- π-Molecular Orbitals of Butadiene & Benzene
 - Calculation of Bond Order
 
 ---
